@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# JetBrains / CLion
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+
+# Build artifacts (if tests compile C code)
+*.o
+*.so
+*.a
+*.out
