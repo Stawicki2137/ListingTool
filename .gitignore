@@ -22,3 +22,9 @@ env/
 *.so
 *.a
 *.out
+
+# Packaging / build artifacts
+*.egg-info/
+build/
+dist/
+

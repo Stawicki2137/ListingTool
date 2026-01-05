@@ -1,0 +1,7 @@
+{
+  global:
+    add;
+    mul;
+  local:
+    *;
+};
